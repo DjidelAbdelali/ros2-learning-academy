@@ -22,10 +22,10 @@ This project is an engineering module built by **DJIDEL Abdelali Rayan** (System
 
 ```mermaid
 graph TD
-    UI[Interactive Web Platform] --> Roadmap[5-Level Learning Roadmap]
-    Roadmap --> CodeRunner[Interactive Code Runner & ROS2 Nodes]
-    CodeRunner --> TopicSub[ROS2 Publisher / Subscriber Graph]
-    TopicSub --> Assistant[AI Conversational Tutor]
+    UI["Interactive Web Platform"] --> Roadmap["5-Level Learning Roadmap"]
+    Roadmap --> CodeRunner["Interactive Code Runner & ROS2 Nodes"]
+    CodeRunner --> TopicSub["ROS2 Publisher / Subscriber Graph"]
+    TopicSub --> Assistant["AI Conversational Tutor"]
 ```
 
 ---
